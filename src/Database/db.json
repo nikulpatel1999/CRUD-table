@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "ms dhoni",
+      "username": "dhoni",
+      "email": "dhoni@gmail.com",
+      "phone": "999888999",
+      "id": "-XRQfVK"
+    },
+    {
+      "name": "yuvraj singh",
+      "username": "yuviiiiiiiiii",
+      "email": "yuvi@gmail.com",
+      "phone": "9998884267",
+      "id": "bAx2u0N"
+    },
+    {
+      "name": "virat",
+      "username": "kohli",
+      "email": "virat@gmail.com",
+      "phone": "9339444714",
+      "id": "hg4ZVlB"
+    },
+    {
+      "name": "Patel Nikul",
+      "username": "world",
+      "email": "hello@gmail.com",
+      "phone": "9998884267",
+      "id": "SuBm9cE"
+    }
+  ]
+}
